@@ -38,8 +38,8 @@
   - B/S/H *(June 2021 - March 2024)*
   - Gauselmann Group *(April 2022 - August 2022)*
 
- ## Research Analyst Intern
- ***Alan Yatirim Menkul Degerler A.S.***
+## Research Analyst Intern
+***Alan Yatirim Menkul Degerler A.S.***
  
  *Dec 2020 - Dec 2020*
 
@@ -81,3 +81,25 @@
 * **Medicine Application**
 
   The project is an Android-based solution designed to streamline the process of finding and acquiring medications by integrating location-based services and real-time inventory management. This application enables users to search for specific medicines and provides a comprehensive list of nearby pharmacies that have the requested medication in stock. The pharmacies are listed according to their proximity to the user's current location, ensuring quick and efficient access to the required medicine. The application leverages GPS and location services to determine the user's position and integrates with a backend database that maintains updated inventories of various pharmacies. The data is processed to prioritize pharmacies that are closest to the user, reducing the time and effort required to obtain the necessary medications.
+
+# Courses
+* **Bitcoin**
+
+   ***Aug 2022*** | *Global Institute*
+
+* **SAP ABAP: Basic ABAP Training***
+
+  ***Feb 2022*** | *Udemy*
+
+* **Virtual Pilot**
+
+  ***Feb 2012*** | *Tarkim Aviation*
+
+# Skills
+
+* **Pyhton**
+* **SQL**
+* **MongoDB**
+* **Power BI**
+* **Agile Development**
+* **Project Management**
