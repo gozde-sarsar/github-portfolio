@@ -1,7 +1,8 @@
 # Data Scientist
 
 ### Education
-Computer Engineering, MSc.
+* MSc. Data Science and Artificial Intelligence
+* Bournemouth University
 
 ### Work Experience
 
