@@ -1,8 +1,8 @@
 # Data Scientist
 
-##Education
+### Education
 Computer Engineering, MSc.
 
-##Work Experience
+### Work Experience
 
-##Projects
+### Projects
