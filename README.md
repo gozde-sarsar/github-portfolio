@@ -6,6 +6,7 @@
   *2023 - 2024*
 
   The degree program provided a comprehensive foundation in data science and AI,  covering key areas such as neural networks, deep learning, and computer          vision. I gained practical experience in image processing, optimization   algorithms, and advanced data analytics. The coursework also emphasized ethical research practices and the full data pipeline, while offering hands-on implementation of AI methodologies across various domains.
+  
 **MSc. Weighted Average**
 77.22% (Distinction)
 
@@ -15,7 +16,7 @@
 
   The degree program provided a broad foundation in computer engineering, covering essential areas like mathematics, programming, computer systems, and software development. It included core courses in Calculus, Physics, Data Structures, Algorithms, Operating Systems, and advanced topics such as Microprocessors, Software Engineering, Mobile Application Development, and Unity game development.
 
-### Experience
+# Experience
 ## Project Researcher
 ***Google, US***
 *May 2024 - Sep 2024*
@@ -41,5 +42,10 @@
  *Dec 2020 - Dec 2020*
 
  * Gained valuable insights into the financial industry in trading, investment strategies, and the functioning of financial markets.
+
+## Cyrpto Operations Analyst Intern
+***Icrypex Crypto Exchange***
+*Jun 2019 - Jul 2019*
+* Involved in supporting various operational tasks and getting exposure to the dynamic nature of crypto trading and exchange platforms.
 
 ### Projects
