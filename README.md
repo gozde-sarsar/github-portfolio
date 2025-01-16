@@ -87,7 +87,7 @@
 
    ***Aug 2022*** | *Global Institute*
 
-* **SAP ABAP: Basic ABAP Training***
+* **SAP ABAP: Basic ABAP Training**
 
   ***Feb 2022*** | *Udemy*
 
