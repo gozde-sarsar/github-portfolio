@@ -52,7 +52,9 @@
 * Involved in supporting various operational tasks and getting exposure to the dynamic nature of crypto trading and exchange platforms.
 
 # Projects
-* **AI-Powered Procedural Content Generation: Enhancing NPC Behaviour for an Immersive Gaming Experience** *DOI: 10.2139/ssrn.4663382*
+* **AI-Powered Procedural Content Generation: Enhancing NPC Behaviour for an Immersive Gaming Experience**
+
+  *DOI: 10.2139/ssrn.4663382*
 
   This paper examines the integration of artificial intelligence (AI) and procedural content generation (PCG) in video game development, with a particular emphasis on enhancing the behaviors of non-player characters (NPCs). It delves into recent advancements in PCG powered by deep learning, which dynamically generate game content, creating adaptive and personalized gaming environments that transform player experiences. The paper also outlines how AI has evolved NPC interactions to be more immersive and context-aware, utilizing techniques such as reinforcement learning for strategic decision-making, neural networks for handling complex data, and natural language processing for realistic dialogue. It highlights the benefits of PCG in NPC behavior, including increased diversity and replayability, while also addressing the limitations in replicating the nuanced complexity of manually crafted content. Overall, this research underscores AI's significant impact on gaming, pushing the boundaries of procedural content generation to create more engaging and dynamic virtual worlds, with further AI-driven innovations set to revolutionize intuitive game design and interactive experiences.
 
