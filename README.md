@@ -18,6 +18,7 @@
 # Experience
 ## Project Researcher
 ***Google, US***
+
 *May 2024 - Sep 2024*
 
 * Led a master’s dissertation project sponsored by Google US, focusing on GenAI to Enhance Situational Awareness of Team Members in an Enterprise Environment.
