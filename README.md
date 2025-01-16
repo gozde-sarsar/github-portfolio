@@ -9,7 +9,7 @@
 **MSc. Weighted Average**
 77.22% (Distinction)
 
-  * **BSc. Computer Engineering** - ***Kadir Has University***
+* **BSc. Computer Engineering** - ***Kadir Has University***
  
     *2015 - 2021*
 
